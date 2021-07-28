@@ -1,0 +1,22 @@
+.container{
+    padding-bottom: 50px;
+}
+.orange-bg{
+    background-color:#fceae8;
+}
+.buy-now-button{
+    width: 100px;
+    color:black;
+    background-color:crimson;
+    border-radius:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: crimson;
+    font-family:'Times New Roman', Times, serif;
+}
